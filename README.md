@@ -17,6 +17,7 @@ The main feature is geolocated notes and posts.
 
 * get a random notification / prompt? 
 * save music / audio recordings? 
+* drop notes to others
 
 ## inspiration
 
