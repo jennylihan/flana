@@ -76,12 +76,12 @@ export default function DocumentScreen() {
       .set({
         Date: Date.now(),
         Message: inputValue,
-        Location: [currLocation?.latitude, currLocation?.longitude],
+        Location: currLocation,
         Image: downloadURL ? downloadURL : "",
       })
       .then((docRef: any) => {
         console.log("Document written!" + inputValue);
-        setImageURI(null);
+        setImageURI("");
         setInputValue("");
       })
       .catch((error: any) => {
