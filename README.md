@@ -1,8 +1,8 @@
 # flana
 
-"Flana" is an Old Norse word meaning "to wander with no purpose." The word eventually found its way into poet Charles Baudelaire's concept of "flânerie" which is the act of strolling, experiencing, and observing public urban life; for Baudelaire, the perfect place for that was 19th century Paris. (Flanerie has always been coded as a white and male pastime, but I was luckily introduced to the concept of urban space observation by people who champion inclusive urban spaces @ the Human Cities Initative!)
+"Flana" is an Old Norse word meaning "to wander with no purpose." This year I learned about poet Charles Baudelaire's concept of "flânerie" which is the act of strolling, experiencing, and observing public urban life; for Baudelaire, the perfect place for that was 19th century Paris. (Flanerie has always been coded as a white and male pastime, but I was luckily introduced to the concept of urban space observation by people who champion inclusive urban spaces @ the Human Cities Initative!)
 
-I want to take the joy of flanerie and commemorate (in a v small way) the public spaces I found myself in this summer. I know many people do this publicly via social media (Snapchat or Instagram stories, tweets), but I wanted to make this piece of personal software for only myself. 
+I want to take the joy of flanerie and commemorate (in a v small way) the public spaces I found myself in this summer, in LA. I know many people do this publicly via social media (Snapchat or Instagram stories, tweets), but I wanted to make this piece of personal software for only myself. 
 
 ## feature brainstorm
 
