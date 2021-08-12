@@ -4,7 +4,7 @@
 
 I want to take the joy of flanerie and commemorate (in a v small way) the public spaces I found myself in this summer, in LA. I know many people do this publicly via social media (Snapchat or Instagram stories, tweets), but I wanted to make this piece of personal software for only myself. 
 
-Flanerie has always been coded as a white and male pastime and I think it will continue to be so until public spaces are fully safe and enjoyable for everyone. However, I was first introduced to the concept of flanerie by people who champion inclusive urban spaces, and I hope to draw from Jan Gehl's people-centered urban design, the practice of urban space observation, and NUMTOT memes as much as I do from Baudelaire.
+Flanerie has always been coded as a white and male pastime and I think it will continue to be so until public spaces are fully safe and enjoyable for people of all identities. However, I was first introduced to the concept of flanerie by friends and mentors who champion inclusive urban spaces, and I hope to draw from Jan Gehl's people-centered urban design, the practice of urban space observation, and NUMTOT memes as much as I do from Baudelaire.
 
 ## feature brainstorm
 
