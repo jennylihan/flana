@@ -11,7 +11,7 @@ Flanerie has always been coded as a white and male pastime and I think it will c
 The main feature is geolocated notes. 
 
 * write a small note or save a photo to yourself while you are in the process of wandering around a new place  
-* you are only able to view the note / photo if you are within .5 mile of that location (for now... radius might change later)
+* you are only able to view the note / photo if you are within .5 mile of that location (the thoughts you have are tied to the place you had them in. for now... radius might change later)
 
 --
 
