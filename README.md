@@ -1,13 +1,17 @@
 # flana
 
-"Flana" is an Old Norse word meaning "to wander with no purpose." This year I learned about poet Charles Baudelaire's concept of "flânerie" which is the act of strolling, experiencing, and observing public urban life; for Baudelaire, the perfect place for that was 19th century Paris. (Flanerie has always been coded as a white and male pastime, but I was luckily introduced to the concept of urban space observation by people who champion inclusive urban spaces @ the Human Cities Initative!)
+"Flana" is an Old Norse word meaning "to wander with no purpose." This year I learned about poet Charles Baudelaire's concept of "flânerie" which is the act of strolling, experiencing, and observing public urban life; for Baudelaire, the perfect place for that was 19th century Paris. (Flanerie has always been coded as a white and male pastime and I think it will continue to be so until public spaces are safe and enjoyable for everyone. I was first introduced to the concept of urban space observation by people who champion inclusive urban spaces @ the Human Cities Initative, and I hope to draw from Jan Gehl's people-centered urban design and NUMTOT memes as much as I do from Baudelaire.)
 
 I want to take the joy of flanerie and commemorate (in a v small way) the public spaces I found myself in this summer, in LA. I know many people do this publicly via social media (Snapchat or Instagram stories, tweets), but I wanted to make this piece of personal software for only myself. 
 
 ## feature brainstorm
 
+The main feature is geolocated notes. 
+
 * write a small note or save a photo to yourself while you are in the process of wandering around a new place  
 * you are only able to view the note / photo if you are within .5 mile of that location (for now... radius might change later)
+
+--
 
 * get a random notification / prompt? 
 * save music / audio recordings? 
