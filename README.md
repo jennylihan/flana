@@ -2,7 +2,9 @@
 
 "Flana" is an Old Norse word meaning "to wander with no purpose." This year I learned about poet Charles Baudelaire's concept of "flânerie" which is the act of strolling, experiencing, and observing public urban life; for Baudelaire, the perfect place for that was 19th century Paris. 
 
-I want to take the joy of flanerie and commemorate in a v small way the public spaces I found myself in this summer, in LA. I know many people do this publicly via social media (Snapchat or Instagram stories, tweets), but I wanted to make this piece of personal software to track where I've been and what I experienced, for only myself.
+I want to take the joy of flanerie and commemorate in a v small way the public spaces I found myself in, this summer, in LA. I know many people do this publicly via social media (Snapchat or Instagram stories, tweets), but I wanted to make this piece of personal software to track where I've been and what I experienced, for only myself.
+
+Currently the prototype is made in React Native, and the data is stored in Firebase. 
 
 ## features
 
