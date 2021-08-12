@@ -1,3 +1,26 @@
 # flana
 
-this is a test
+"Flana" is an Old Norse word meaning "to wander with no purpose." The word eventually found its way into poet Charles Baudelaire's concept of "flânerie" which is the act of strolling, experiencing, and observing public urban life; for Baudelaire, the perfect place for that was 19th century Paris. Flanerie has always been coded as a white and male pastime, but I was luckily introduced to the concept of urban space observation by people who champion inclusive urban spaces (@ the Stanford Human Cities Initative!). 
+
+I want to take the joy of flanerie and commemorate (in a v small way) the public spaces I found myself in this summer. I know many people do this publicly via social media (Snapchat or Instagram stories, tweets), but I wanted to make this piece of personal software for only myself. 
+
+## feature brainstorm
+
+* write a small note or save a photo to yourself while you are in the process of wandering around a new place  
+* you are only able to view the note / photo if you are within .5 mile of that location (for now... radius might change later)
+
+* get a random notification / prompt? 
+* save music / audio recordings? 
+
+## readings
+
+If I were to track where the idea came from, it'd be from: 
+* conversations with ashwin, jacob, kylie, adit, and lauren
+* [🌀NYT: The Death of the Cyberflaneur](https://www.nytimes.com/2012/02/05/opinion/sunday/the-death-of-the-cyberflaneur.html) 
+* [🌀Quora: What are some good location-based reminder apps that will send me push notifications when I get to certain places?](https://www.quora.com/What-are-some-good-location-based-reminder-apps-that-will-send-me-push-notifications-when-I-get-to-certain-places)
+* [🌀Guardian: Why cities emptied by Covid-19 are perfect for modern flâneurs](https://www.theguardian.com/travel/2021/apr/06/cities-emptied-by-covid-perfect-for-modern-flaneur-baudelaire)
+* [🌀Strolling with a Question: Is it Possible to Be a Black Flâneur?](https://www.isrf.org/2021/05/21/strolling-with-a-question-is-it-possible-to-be-a-black-flaneur/)
+* [🌀Creative Tools for Urban Spaces by Deland Chan](http://www.humancities.org/s/UrbanObservationTool_06012015.pdf)
+* [the offline collective's placemaking event](https://lu.ma/pc4zb70l)
+* [🌀Psychogeography](https://en.wikipedia.org/wiki/Psychogeography)
+
